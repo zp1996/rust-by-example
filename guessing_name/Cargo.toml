@@ -1,0 +1,7 @@
+[package]
+name = "gussing_name"
+version = "0.1.0"
+authors = ["zhoupeng.1996 <zhoupeng.1996@bytedance.com>"]
+
+[dependencies]
+rand = "0.3.14"
