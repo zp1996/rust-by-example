@@ -5,4 +5,10 @@
  */
 fn main() {
     println!("Hello {}", "World");
+    let arr = vec![1, 2, 3];
+
+    for i in arr {
+        i = i + 1;
+    }
+
 }
